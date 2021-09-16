@@ -1,4 +1,4 @@
-# sample
+# Integrated Zustand, styled-components, i18n-next in react-native demo
 
 
 - This sample is for demonstrating how to use zustand, styled-components, i18n.
